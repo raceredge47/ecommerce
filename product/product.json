@@ -1,0 +1,38 @@
+[
+  {
+    "model": "product.Product",
+    "pk": 1,
+    "fields": {
+      "Name": "Tall Boy Laptop Backpack 2500EBP1",
+      "Description": "uppercase Medium 23L Tall Boy Laptop Backpack 2500EBP1 3x more water repellent sustainable bags with rain proof zippers for Men, Women, Boys and Girls, 750 Days warranty",
+      "Image": "/Product_Image/abackpack.jpg",
+      "Price": 1500,
+      "Stock": 8,
+      "created_on":"2022-08-30 5:00"
+    }
+  },
+    {
+    "model": "product.Product",
+    "pk": 2,
+    "fields": {
+      "Name": "Vegan Leather",
+      "Description": "uppercase Medium 17L Vegan Leather Laptop Backpack 2300EBP1 3x more water repellent sustainable bags with rain proof zippers for Men, Women, Boys and Girls, 750 Days warranty (Green)",
+      "Image": "/Product_Image/Veganleather.jpg",
+      "Price": 500,
+      "Stock": 1,
+      "created_on":"2022-08-30 5:00"
+    }
+  },
+      {
+    "model": "product.Product",
+    "pk": 3,
+    "fields": {
+      "Name": "American Tourister",
+      "Description": "American Tourister 32 Ltrs Black Casual Backpack (AMT FIZZ SCH BAG 02 - BLACK)",
+      "Image": "/Product_Image/americantourister.jpg",
+      "Price": 1500,
+      "Stock": 5,
+      "created_on":"2022-08-30 5:00"
+    }
+  }
+]
